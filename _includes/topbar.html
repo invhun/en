@@ -49,9 +49,9 @@
         </div>
 
         <ul class="visible-links" style="list-style: none; padding: 0; margin: 0;">
-            <li style="display: inline;"> <!-- inline으로 설정하여 리스트처럼 보이지 않게 함 -->
+            <li style="display: inline;">
                 <a href="#" id="changeLanguageButton" class="toggle-button">
-                    <span class="language-text">KO</span> <!-- 버튼 텍스트를 KO로 변경 -->
+                    <span class="language-text">KO</span>
                 </a>
             </li>
         </ul>
@@ -78,7 +78,7 @@
         <script>
             document.getElementById('changeLanguageButton').onclick = function() {
                 var currentUrl = window.location.href;
-                var newUrl = currentUrl.replace('/en/', '/ko/'); // 변경할 링크 수정
+                var newUrl = currentUrl.replace('/en/', '/ko/');
                 window.location.href = newUrl;
             };
         </script>
