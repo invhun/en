@@ -4,38 +4,70 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hello, I am Jeong-hun Hong, a master's student researching multimodal learning.
+# Jeong-hun Hong
+
+**Jeong-hun Hong** is a researcher in the field of multimodal learning, integrating Computer Vision and Natural Language Processing. His expertise centers on multimodal representation learning and retrieval. Building upon this foundational work, his current research interests extend to Large Language/Multimodal Models and long video understanding, aiming to develop sophisticated and practical applications for comprehensive multimodal understanding and interaction.
+
+(+82)10-5148-6355 | invhun@gmail.com | [LinkedIn](https://www.linkedin.com/in/invhun/) | [GitHub Blog](https://invhun.github.io/ko/about/) | [Google Scholar](https://scholar.google.com/citations?user=sPIUOpIAAAAJ&hl=ko) | [CV (PDF)](https://1drv.ms/b/c/af5642aec05791fb/IQRucs-Mh7TeRadatkTbQUwgAWcZGxBiG4M4P5JRiQowpf8)
 
 ## 🎓 Education
 * * *
-- Kyungpook National University<br>
-  B.S. in Computer Science & Engineering<br>
-  Mar. 2017 ~ Aug. 2023
-- Kyungpook National University<br>
-  M.S. in Computer Science & Engineering<br>
-  Sep. 2023 ~   
-  Advisor: Sang-hyo Park
+### M.S. | Department of Computer Science and Engineering (2023-2025)
+- Kyungpook National University, Daegu, South Korea
+- Thesis: Matryoshka Contrastive Learning via Embedding Dimension Rearrangement and Learnable Granularity-Wise Tempereatures for Vision-Language Models
+- Advisor: Sang-hyo Park
 
-## 🔍 Research Interest
-* * *
-- Multimodal Learning
-  - Text-Video Retrieval
-  - 3D Scene Graph Generation
-  - Captioning
-- Generative Model
-  - Diffusion-based Method
-- Knowledge Distillation
+### B.S. | Department of Computer Science and Engineering (2017-2023)
+- Kyungpook National University, Daegu, South Korea
+
 
 ## 📚 Publications
 * * *
-<span style="color: #007BFF; font-weight: bold;">(First Author)</span>
-- <span style="color: #007BFF; font-weight: bold;">Chan Hur</span>, <span style="color: #007BFF; font-weight: bold;">Jeong-hun Hong</span>, Dong-hun Lee, Dabin Kang, Semin Myeong, Sang-hyo Park, Hyeyoung Park, "Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions", Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR),  2025
-- <span style="color: #007BFF; font-weight: bold;">Semin Myeong</span>, Dabin Kang, Chae-yeong Song, **Jeong-hun Hong**, Sang-hyo Park, "A study on the Use of a Text-to-image Generative Model to Generate Consistent Story Illustrations", JOURNAL OF BROADCAST ENGINEERING, 29(6), 1043-1055, 2024
-- <span style="color: #007BFF; font-weight: bold;">Dong-hun Lee</span>, **Jeong-hun Hong**, Hui-yan Yu, Dabin Kang, Sang-hyo Park, "Exploring the interactivity of the MPEG SD data format with academic dataset", 한국방송미디어공학회 학술발표대회 논문집, 제주, 2024
-- <span style="color: #007BFF; font-weight: bold;">Semin Myeong</span>, Dabin Kang, Chae-yeong Song, **Jeong-hun Hong**, Sang-hyo Park, "A Study on Coherent Image Generation Reflecting Story Genres Using Text-based Image Generation Models", 한국방송미디어공학회 학술발표대회 논문집, 제주, 2024
-- <span style="color: #007BFF; font-weight: bold;">Jeong-hun Hong</span>, Dong-hun Lee, Han-gyul Baek, Byungjun Bae, Sang-hyo Park, "Image captioning network for disaster dataset based on transfer learning and disaster convolution block", in The Journal of Korean Institute of Communications and Information Sciences (KICS), 2023 
+### International conference
+- **Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions**   
+  Chan Hur*, **Jeong-hun Hong***, Dong-hun Lee, Dabin Kang, Semin Myeong, Sang-hyo Park, and Hyeyoung Park
+  Conference on Computer Vision and Pattern Recognition (CVPR), 2025. (*: Equal Contributors)   
+  [[paper](https://arxiv.org/abs/2503.05186) | [code](https://github.com/invhun/NarVid)]
 
-## 📫 How to reach me
+### International journal
+- **Research and Standards in 3D Scene Description Technologies: A Survey**   
+  Dong-shin Lim, Dong-hun Lee, Dong-hwi Kim, **Jeong-hun Hong**, Aro Kim, Chae-yeong Song, Bosung Baek, Dabin Kang, Myeong-jin Jang, and Sang-hyo Park
+  APSIPA Transactions on Signal and Information Processing, SCIE, 2025. (Q2 Journal)
+
+### Domestic publications
+- **Dataset Analysis and Comparative Evaluation for Fallen Person Detection in Virtual Environments**   
+  Hui-yan Yu, **Jeong-hun Hong**, Dabin Kang, and Sang-hyo Park
+  Proceedings of the Korean Institute of Broadcast and Media Engineers Conference, 266-269, 2025   
+  [[paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12288126)]
+
+- **A Study on the Use of a Text-to-image Generative Model to Generate Consistent Story Illustrations**   
+  Semin Myeong, Dabin Kang, Chae-yeong Song, **Jeong-hun Hong**, and Sang-hyo Park
+  Jounal of Broadcast Engineering, 29(6), 1043-1055, 2024.   
+  [[paper](https://ksbe-jbe.org/_PR/view/?aidx=42929&bidx=3885)]
+
+- **Image Captioning Network for Disaster Dataset Based on Transfer Learning and Disaster Convolution Block**   
+  **Jeong-hun Hong**, Dong-hun Lee, Han-gyul Baek, Byungjun Bae, and Sang-hyo Park
+  Journal of Korean Institute of Communications and Information Sciences (KICS), 48.8: 950-954, 2023.   
+  [[paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11493461)]
+
+## 🌐 Standardization Activities
 * * *
-- Email: invhun@gmail.com
-- Github: https://github.com/invhun
+### 144th MPEG [[detail](https://www.mpeg.org/meetings/mpeg-144/)]
+- **[SD] Report on possible asset for scene description**
+  **Jeong-hun Hong**, Dong-hun Lee, Chae-yeong Song, Sang-hyo Park, Hyeon-Cheol Moon, Myeong-kyun Kim, Jinwoo Jeong, and Sungjei Kim
+  ISO/IEC JTC 1/SC 29/WG 3 m64815, Oct. 2023, Hannover.
+
+- **[SD] Guideline of format conversion from 3DSSG and 3RScan to glTF**
+  **Jeong-hun Hong**, Dong-hun Lee, Chae-yeong Song, and Sang-hyo Park
+  ISO/IEC JTC 1/SC 29/WG 3 m65479, Oct. 2023, Hannover.
+
+## 🏆 Honors & Awards
+* * *
+- **CSE Thesis Award for Outstanding Graduate Student** (2025)
+  [[view](https://1drv.ms/i/c/af5642aec05791fb/IQRJyzBpHGWJT5tDmlQPl65TAanNT0tp8HnFofkIjCAdp_Y)]
+
+## ⚙️ Skills
+* * *
+- **Machine Learning & Deep Learning:** Pytorch, Tensorflow
+- **Knowledge:** Multimodal learning, Video understanding, Vision-language model, Multimodal retrieval
+- **Language Skills:** Korean, English
