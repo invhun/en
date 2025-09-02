@@ -8,7 +8,7 @@ order: 4
 
 **Jeong-hun Hong** is a researcher in the field of multimodal learning, integrating Computer Vision and Natural Language Processing. His expertise centers on multimodal representation learning and retrieval. Building upon this foundational work, his current research interests extend to Large Language/Multimodal Models and long video understanding, aiming to develop sophisticated and practical applications for comprehensive multimodal understanding and interaction.
 
-(+82)10-5148-6355 | invhun@gmail.com | [LinkedIn](https://www.linkedin.com/in/invhun/) | [GitHub Blog](https://invhun.github.io/ko/about/) | [Google Scholar](https://scholar.google.com/citations?user=sPIUOpIAAAAJ&hl=ko) | [CV (PDF)](https://1drv.ms/b/c/af5642aec05791fb/IQRucs-Mh7TeRadatkTbQUwgAWcZGxBiG4M4P5JRiQowpf8)
+(+82)10-5148-6355 | invhun@gmail.com | [LinkedIn](https://www.linkedin.com/in/invhun/) | [GitHub Blog](https://invhun.github.io/ko/about/) | [Google Scholar](https://scholar.google.com/citations?user=sPIUOpIAAAAJ&hl=ko) | [CV](https://1drv.ms/b/c/af5642aec05791fb/IQRucs-Mh7TeRadatkTbQUwgAWcZGxBiG4M4P5JRiQowpf8)
 
 ## 🎓 Education
 * * *
